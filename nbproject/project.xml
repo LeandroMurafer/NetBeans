@@ -4,7 +4,11 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <name>Animal_Virtual</name>
+=======
+            <name>Calculadora Simples</name>
+>>>>>>> 6633ccfbf8af6cd3adf05375ff86eadc5bbc13f3
 =======
             <name>Calculadora Simples</name>
 >>>>>>> 6633ccfbf8af6cd3adf05375ff86eadc5bbc13f3

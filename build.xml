@@ -8,8 +8,13 @@
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
 <<<<<<< HEAD
+<<<<<<< HEAD
 <project name="Animal_Virtual" default="default" basedir=".">
     <description>Builds, tests, and runs the project Animal_Virtual.</description>
+=======
+<project name="Calculadora_Simples" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Calculadora Simples.</description>
+>>>>>>> 6633ccfbf8af6cd3adf05375ff86eadc5bbc13f3
 =======
 <project name="Calculadora_Simples" default="default" basedir=".">
     <description>Builds, tests, and runs the project Calculadora Simples.</description>
@@ -64,7 +69,11 @@
     An example of overriding the target for project execution could look like this:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         <target name="run" depends="Animal_Virtual-impl.jar">
+=======
+        <target name="run" depends="Calculadora_Simples-impl.jar">
+>>>>>>> 6633ccfbf8af6cd3adf05375ff86eadc5bbc13f3
 =======
         <target name="run" depends="Calculadora_Simples-impl.jar">
 >>>>>>> 6633ccfbf8af6cd3adf05375ff86eadc5bbc13f3
